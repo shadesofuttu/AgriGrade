@@ -35,4 +35,3 @@ databases:
     databaseName: agrigrade
     user: agrigrade_user
     plan: free
-</contents>
