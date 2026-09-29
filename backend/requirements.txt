@@ -12,7 +12,7 @@ alembic==1.13.1
 # Auth & Security
 python-jose[cryptography]==3.3.0
 passlib[bcrypt]==1.7.4
-python-dotenv==1.0.0
+bcrypt==4.0.1python-dotenv==1.0.0
 
 # Image Processing & ML - Python 3.12 compatible
 pillow==10.2.0
