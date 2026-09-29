@@ -1,6 +1,6 @@
 class AppConstants {
   // API Configuration
-  static const String baseUrl = 'http://192.168.26.48:8000';
+  static const String baseUrl = 'https://agrigrade-api.onrender.com';
   static const String apiVersion = '/api';
   
   // API Endpoints
